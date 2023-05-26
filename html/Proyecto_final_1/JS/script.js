@@ -20,5 +20,5 @@ function cargaPractica(htmlDocument) {
 
 const btnRedirect = document.getElementById('btnRedirect');
 btnRedirect.addEventListener('click', function() {
-  window.location.href = '/html/proyecto_final_1/index.html';
+  window.location.href = '/html/Proyecto_final_1/index.html';
 });
